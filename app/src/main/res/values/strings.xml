@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VideoEditorKitMedium</string>
+    <string name="select_video">Select Video</string>
+    <string name="convert_video">Convert</string>
+    <string name="select_image">Select Image</string>
+    <string name="export_video">Export</string>
+    <string name="play_or_pause_button">play_or_pause_button</string>
+    <string name="_00_00">00:00</string>
+    <string name="frame_rate">Frame Rate</string>
+    <string name="resolution">Resolution</string>
+    <string name="file_name">File Name</string>
+    <string name="export">Export</string>
+</resources>
